@@ -407,9 +407,10 @@
     .visible {
         visibility: visible
     }
-    /*.\ !absolute {
-        position: absolute !important
-    }*/
+    .\!absolute {
+  position: absolute !important;
+}
+
     .absolute {
         position: absolute
     }
