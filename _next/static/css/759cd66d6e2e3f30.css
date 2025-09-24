@@ -301,7 +301,6 @@
     object,
     svg,
     video {
-        vertical-align: middle;
         display: block
     }
     img,
@@ -408,9 +407,9 @@
     .visible {
         visibility: visible
     }
-    .\ !absolute {
+    /*.\ !absolute {
         position: absolute !important
-    }
+    }*/
     .absolute {
         position: absolute
     }
